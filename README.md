@@ -16,7 +16,7 @@
 현재는 **2015 초등 성취기준 -> 세특이 가능**합니다.
 
 2022버전이나 중등이 필요하시면 
-https://github.com/.../%EC%84%B1%EC%B7%A8%EA%B8%B0%EC%A4...
+[변환도구](https://github.com/jkf87/schoolrecord_gen/blob/main/%EC%84%B1%EC%B7%A8%EA%B8%B0%EC%A4%80%EC%9D%84_%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC%EB%A1%9C.ipynb)
 이 도구를 참고해서 변환된 딕셔너리 파일을 보내주시기 바랍니다.
 
 도움이 되셨다면 하트/별 꾹 부탁드립니다
